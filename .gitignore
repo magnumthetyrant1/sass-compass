@@ -1,3 +1,4 @@
 node_modules/
 public/vendors/
 *.sass-cache*
+gitcommands.txt
