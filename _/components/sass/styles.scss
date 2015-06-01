@@ -1,5 +1,35 @@
-$mycolor: #AABBCD;
-
+$mycolor: white;
+*{
+    margin:0 auto;
+}
 body{
     background: $mycolor;
+    padding-top: 0;
+}
+div{
+    text-align: left;
+    padding: 10px;
+    color: black;
+    h1{
+        font-family: fantasy;
+    }
+}
+header{
+    background: #330033;
+    a{
+        color:$mycolor;
+    }
+    a:hover{
+        color:red;
+    }
+}
+
+footer{
+    background: #003333;
+    a{
+        color:$mycolor;
+    }
+    a:hover{
+        color:red;
+    }
 }

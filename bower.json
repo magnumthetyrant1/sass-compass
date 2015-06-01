@@ -1,0 +1,6 @@
+{
+    "name": "sass-compass",
+    "dependencies": {
+        "susy" : "*"
+    }
+}
